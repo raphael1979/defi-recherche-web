@@ -645,11 +645,38 @@ src=opquast.com
 
 _Quelles sont les communautés de dev de St-Go?
 
+ERN simplon-saint-gaudens
+
 _Quels sont les prochains événements tech sur St-Go?
 
 _Quelles sont les différences entre un client web et un
 serveur web ?
 Donnez 3 exemples de chaque
+
+L'environnement client-serveur désigne un mode de communication à travers un réseau entre plusieurs programmes ou logiciels : l'un, qualifié de client, envoie des requêtes ; l'autre ou les autres, qualifiés de serveurs, attendent les requêtes des clients et y répondent. Par extension, le client désigne également l'ordinateur sur lequel est exécuté le logiciel client, et le serveur, l'ordinateur sur lequel est exécuté le logiciel serveur.
+
+En général, les serveurs sont des ordinateurs dédiés au logiciel serveur qu'ils abritent, et dotés de capacités supérieures à celles des ordinateurs personnels en ce qui concerne la puissance de calcul, les entrées-sorties et les connexions réseau. Les clients sont souvent des ordinateurs personnels ou des appareils individuels (téléphone, tablette), mais pas systématiquement. Un serveur peut répondre aux requêtes d'un grand nombre de clients.
+
+Il existe une grande variété de logiciels serveurs et de logiciels clients en fonction des besoins à servir : un serveur web publie des pages web demandées par des navigateurs web ; un serveur de messagerie électronique envoie des mails à des clients de messagerie ; un serveur de fichiers permet de stocker et consulter des fichiers sur le réseau ; un serveur de données sert à communiquer des données stockées dans une base de données, etc.
+
+Caractéristiques d'un processus serveur :
+
+il attend une connexion entrante sur un ou plusieurs ports réseaux locaux  ;
+à la connexion d'un client sur le port en écoute, il ouvre un socket local au système d'exploitation;
+à la suite de la connexion, le processus serveur communique avec le client suivant le protocole prévu par la couche application du modèle OSI.
+Caractéristiques d'un processus client :
+
+il établit la connexion au serveur à destination d'un ou plusieurs ports réseaux ;
+lorsque la connexion est acceptée par le serveur, il communique comme le prévoit la couche applicative du modèle OSI.
+Le client et le serveur doivent bien sûr utiliser le même protocole de communication au niveau de la couche transport du modèle OSI. Un serveur est généralement capable de servir plusieurs clients simultanément. On parle souvent d'un service pour désigner la fonctionnalité offerte par un processus serveur. On définit aussi comme serveur, un ordinateur spécialisé ou une machine virtuelle ayant pour unique tâche l'exécution d'un ou plusieurs processus serveur.
+
+src=https://fr.wikipedia.org/wiki/Client-serveur
+
+Un serveur Web est un serveur informatique utilisé pour publier des sites web sur Internet ou un intranet. L'expression « serveur Web » désigne également le logiciel utilisé sur le serveur pour exécuter les requêtes HTTP, le protocole de communication employé sur le World Wide Web.
+
+Un serveur web diffuse généralement des sites web, il peut contenir d'autres services liés comme l'envoi d'e-mails, du streaming, le transfert de fichiers par FTP, etc.
+
+src=https://fr.wikipedia.org/wiki/Serveur_web
 
 
 
