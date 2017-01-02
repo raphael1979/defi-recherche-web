@@ -639,6 +639,10 @@ src=https://fr.wikipedia.org/wiki/Mr._Robot_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e
 
 _Qu’est-ce que OpQuast ?
 
+Opquast est un écosystème qui regroupe des bonnes pratiques, des outils et des professionnels pour améliorer la qualité des sites web et l'expérience de l'utilisateur.
+
+src=opquast.com
+
 _Quelles sont les communautés de dev de St-Go?
 
 _Quels sont les prochains événements tech sur St-Go?
