@@ -598,8 +598,8 @@ src=https://www.apprendre-en-ligne.net/crypto/images/bases.html
 _Quelles sont les nouveautés apportées par le HTML 5 ?
 
 _Qu’est-ce que ECMAScript 2015 ?
+Quelles nouveautés par rapport à la version précédente?
 
-_Quelles nouveautés par rapport à la version précédente?
 _Quelles différences avec ES 6 ?
 
 _Quelles sont les différences entre application native,
