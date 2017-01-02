@@ -127,7 +127,10 @@ Quels sont ses plus grands développements ?
 
 Linus Benedict Torvalds, né le 28 décembre 1969 à Helsinki en Finlande, est un informaticien américano-finlandais. Il est connu pour avoir créé en 1991 le noyau Linux dont il continue de diriger le développement. Il en est considéré comme le « dictateur bienveillant ».
 src=https://fr.wikipedia.org/wiki/Linus_Torvalds
+
 Combien coûte un nom de domaine ?
+
+Selon le registrar et l’extension choisie de votre nom de domaine, le prix d’un NDD peut varier. En règle générale, il varie entre 6 et 15 euros. Sachez qu’en plus du nom de domaine, vous aurez à payer un hébergement supplémentaire pour que votre nom de domaine soit en ligne et visible par les internautes. Encore une fois, le coût d’un hébergement peut varier en fonction du prestataire et de la prestation que vous avez choisie.http://www.nddconline.org/31-combien-coute-un-nom-de-domaine
 
 Quels sont les différents services d'emailing disponibles ?
 Un client veux vous envoyer des emails automatiquement depuis son site web
