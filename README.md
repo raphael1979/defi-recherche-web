@@ -597,6 +597,17 @@ src=https://www.apprendre-en-ligne.net/crypto/images/bases.html
 
 _Quelles sont les nouveautés apportées par le HTML 5 ?
 
+Le HTML5 apporte dès lors de nouveaux éléments comme <nav>, <header>, <article>, <figure>… qui améliorent l'accessibilité, ainsi que des éléments comme <mark> ou <data> qui améliorent la sémantique (c'est-à-dire le sens qu'on donne aux textes).
+Mais ce qui nous intéresse surtout, c'est ce qui concerne les applications Web et l'interactivité ! Le HTML5 apporte de nombreux éléments comme <video>, <datagrid>, <meter>, <progress>, <output>… ainsi que de nouveaux types pour les éléments <input>, comme tel, url, date, number…
+
+Et ce n'est pas tout ! Le HTML5 spécifie aussi un certain nombre d'API JavaScript. Ces API JavaScript sont des techniques que nous allons pouvoir utiliser pour développer des applications Web et ajouter de l'interactivité. Parmi ces API JavaScript, on trouve par exemple l'API Drag & Drop, qui va nous permettre de réaliser des glisser-déposer de façon assez simple.
+Le HTML5 se place en concurrent du Flash, en fournissant des outils analogues de façon native : <video>, <audio> et surtout <canvas>. Il est donc possible dès à présent de lire des vidéos en HTML5 sans nécessiter ni Flash, ni un autre plugin contraignant. L'élément <canvas> permettra de dessiner et donc de réaliser des animations, comme on le ferait avec Flash et Silverlight !
+Le HTML5 est la nouvelle mouture du langage de balisage HTML. Il a été conçu afin d'améliorer l'accessibilité et la sémantique et augmenter l'interactivité avec l'utilisateur.
+Cette nouvelle version n'est pas qu'un amas de nouvelles balises. Elle apporte aussi de nouvelles technologies utilisables au sein du JavaScript.
+
+src=https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript/qu-est-ce-que-le-html5
+
+
 _Qu’est-ce que ECMAScript 2015 ?
 Quelles nouveautés par rapport à la version précédente?
 
