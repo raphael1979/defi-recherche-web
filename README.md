@@ -173,6 +173,9 @@ src=http://dubrom.free.fr/Hacking.htm
 
 Qui a inventé la souris ?
 
+Douglas Carl Engelbart (né le 30 janvier 1925, mort le 2 juillet 20131) est un ingénieur américain, un inventeur et un pionnier de l'informatique. Il est célèbre pour avoir inventé la souris, pour ses travaux sur le développement de l'interface homme-machine et pour avoir développé le système hypertexte, les réseaux informatiques et les premières interfaces graphiques (GUI).
+src=https://fr.wikipedia.org/wiki/Douglas_Engelbart
+
 Qui est Margaret Hamilton ?
 
 Retrouvez le code source de la mission Apollo 11.
