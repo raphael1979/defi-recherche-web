@@ -539,6 +539,10 @@ src=http://www.silicon.fr/linux-deux-fois-plus-utilise-que-windows-82907.html
 
 _Qu'est-ce qu'une Cheatsheet ?
 
+Une antisèche (en informatique, on utilise généralement le terme anglais cheatsheet) est un document rédigé à l'avance afin d'éviter de « sécher » sur un sujet.La cheatsheet reprend ce concept en présentant, de la façon la plus concise possible, les grandes lignes d'un logiciel ou d'un langage informatique, comme les raccourcis, termes ou données spécifiques à celui-ci.
+
+src=https://fr.wikipedia.org/wiki/Antis%C3%A8che
+
 _Combien de requêtes y-a-t-il sur Google toutes
 les minutes ?
 
