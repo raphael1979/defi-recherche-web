@@ -351,6 +351,12 @@ src=http://www.hosting-review.com/euro-fr.php
 
 _Qu’est-ce que le Cowboy coding ?
 
+Le Cowboy coding est le développement de logiciels où les programmeurs ont une autonomie sur le processus de développement. Cela comprend le contrôle du calendrier du projet, les langues, les algorithmes, les outils, les cadres et le style de codage.
+
+Un cowboy coding peut être un développeur solitaire ou une partie d'un groupe de développeurs travaillant avec un minimum de processus ou de discipline. Habituellement , il se produit quand il y a peu de participation des utilisateurs professionnels, ou attisés par la direction qui ne contrôle que les aspects non-développement du projet, tels que les grandes cibles, les échéanciers, la portée, et des visuels (le «quoi», mais Pas le «comment»).
+
+src=https://en.wikipedia.org/wiki/Cowboy_coding
+
 _Quelles sont les langages de programmation les
 plus plébiscités aujourd'hui ?
 
