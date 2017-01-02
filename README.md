@@ -71,9 +71,34 @@ src=https://fr.wikipedia.org/wiki/Aaron_Swartz
 
 Qu’est-ce que le projet GNU ?
 
+GNU est un projet de système d’exploitation libre lancé en 1983 par Richard Stallman, puis maintenu par le projet GNU. Son nom est un acronyme récursif qui signifie en anglais « GNU’s Not UNIX » (littéralement, « GNU n’est pas UNIX »). Il reprend les concepts et le fonctionnement d’UNIX2.
+
+Les logiciels qui composent GNU sont généralement utilisés en association avec des logiciels libres issus d'autres projets tels que le noyau Linux.
+src=https://fr.wikipedia.org/wiki/GNU
+
 Quelles sont les différences entre le Http et le Https ?
 
+Le protocole https a été créé pour pallier aux défauts de l’http. Je vous rappelle que le protocole http est un protocole :
+
+qui permet de recevoir des informations des serveurs web (serveurs http)
+qui permet d’envoyer des informations vers les serveurs web,
+et surtout que tous ces échanges se sont font sans aucun cryptage.
+La plupart du temps,l’utilisateur se contente de recevoir des données qui sont visibles par tout le monde et qui ne sont pas confidentielles. 
+Par contre, cela devient plus gênant si l’utilisateur se connecte par exemple à sa banque. Ses informations de connexion sont des données confidentielles et il ne faut donc pas qu’elles tombent dans de mauvaises mains. Sans cryptage, il est facile pour quelqu’un de mal intentionné de récupérer des informations confidentielles.
+
+Pour pallier à ce problème de sécurité, il a fallu trouver une parade : c’est le https !
+Le protocole https est composé de 2 protocoles :
+le protocole http
+le protocole ssl : c’est lui qui donne le S au protocole httpS (S pour Secure)
+src=http://www.culture-informatique.net/cest-quoi-difference-http-https/
+
 Qui est Richard Stallman ?
+
+Richard Matthew Stallman (né à Manhattan, le 16 mars 1953), connu aussi sous les initiales rms (en minuscules), est un programmeur et militant du logiciel libre. Initiateur du mouvement du logiciel libre, il lance, en 1983, le projet GNU et la licence publique générale GNU connue aussi sous l’acronyme GPL. Il a popularisé le terme anglais « copyleft ». Programmeur renommé de la communauté informatique américaine et internationale, il a développé de nombreux logiciels dont les plus connus des développeurs sont l’éditeur de texte GNU Emacs, le compilateur C de GNU, le débogueur GNU mais aussi, en collaboration avec Roland McGrath, le moteur de production GNU Make.
+
+Depuis le milieu des années 1990, il consacre la majeure partie de son temps à la promotion du logiciel libre auprès de divers publics un peu partout dans le monde. Depuis quelques années, il fait campagne contre les brevets logiciels et la gestion des droits numériques (DRM).
+src=https://fr.wikipedia.org/wiki/Richard_Stallman
+
 
 Comment fonctionnent les bang de Duck Duck Go?
 
