@@ -490,7 +490,7 @@ _Un antivirus est-il utile sous Windows ? Sous Mac
 
 oui il est préférable d'avoir un antivirus surtout sous Windows qui est attaqué très facilement par les "pirates informatiques", sous Mac il est conseillé mais pas obligatoire .Linux lui fonctionne sans antivirus il faut juste faire les mises à jour.
 
-src=https://forum.ubuntu-fr.org/viewtopic.php?id=1213541  
+src=https://forum.ubuntu-fr.org/viewtopic.php?id=1213541
 
 _En quoi consiste la méthode Pomodoro ?
 Avantages et inconvénients ?
@@ -550,6 +550,20 @@ les minutes ?
 src=http://www.planetoscope.com/Internet-/1474-recherches-sur-google.html
 
 _Qu’est-ce que les joies du code ?
+
+Initialement lancé comme un simple délire entre amis, afin de partager nos réactions vives face à nos joies, peines et autres sentiments rencontrés lors du développement de nos projet d'études à la fac, "Les joies du code" voient le jour en avril 2012 sous la forme d'un simple "Tumblr de gifs".
+
+Les gifs y sont publiés de manière irrégulière, voire parfois par lots entiers, au rythme de nos nuits passées à coder, et commencent à faire le tour des réseaux sociaux. Très vite, le site subit un effet de buzz porté par la communauté des développeurs francophones et la tendance du "Tumblr réactionnel". Des médias parlent du blog, quelques célébrités de la toile relaient le site, tout comme certaines grosses sociétés.
+
+Au bout de quelques mois, le site passe à un rythme plus soutenu et surtout régulier, avec la publication de 3 gifs par jour ouvré, à heure fixe. La page Facebook est ouverte et commence à amasser plusieurs milliers de fans.
+
+Le site s'ouvre à la publicité en novembre 2012 et travaille depuis cette date avec un ensemble d'annonceurs français choisis et dont les services et/ou produits sont en adéquation avec les attentes de ses visiteurs. Dans la foulée, le rythme de publication du site passe à 4 gifs par jour ouvré.
+
+Plusieurs concours commencent à être organisés afin de récompenser la communauté de visiteurs attachée au site. En Noël 2013, c'est même une tablette qui est mise en jeu dans le cadre d'un concours dédié.
+
+Le site subit en mars 2015 une grosse refonte de son design, afin d'être plus en adéquation avec son temps et d'offrir à ses visiteurs un confort de consultation amélioré. C'est par la même occasion le moment choisi pour ouvrir la ligne éditrice du site et ne plus seulement restreindre son contenu au format GIF. Images, vidéos et texte y sont désormais les bienvenus. De même, les heures de publication des posts vont être revues afin d'atteindre un maximum de fans.
+
+src=http://lesjoiesducode.fr/a-propos
 
 _Qui sont Larry Page et Sergey Brin ?
 
