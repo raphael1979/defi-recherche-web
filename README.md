@@ -462,6 +462,21 @@ src=https://fr.wikipedia.org/wiki/Tim_Berners-Lee
 _Comment sont reliés les différents réseaux
 d'internet ?
 
+Un réseau informatique est un ensemble d'équipements reliés entre eux pour échanger des informations. Par analogie avec un filet (un réseau est un « petit rets », c'est-à-dire un petit filet1), on appelle nœud l'extrémité d'une connexion, qui peut être une intersection de plusieurs connexions ou équipements (un ordinateur, un routeur, un concentrateur, un commutateur).
+
+Indépendamment de la technologie sous-jacente, on porte généralement une vue matricielle sur ce qu'est un réseau. De façon horizontale, un réseau est une strate de trois couches : les infrastructures, les fonctions de contrôle et de commande, les services rendus à l'utilisateur. De façon verticale, on utilise souvent un découpage géographique : réseau local, réseau d'accès et réseau d'interconnexion.
+Les réseaux informatiques sont classés suivant leur portée :
+
+le bus informatique : réseau dans "la carte mère" ;
+le réseau personnel (PAN) relie des appareils électroniques personnels ;
+le réseau local (LAN) relie les ordinateurs ou postes téléphoniques situés dans la même pièce ou dans le même bâtiment ;
+le réseau local (WLAN) est un réseau LAN utilisant la technologie WIFI ;
+
+le réseau métropolitain (MAN) est un réseau à l'échelle d'une ville ;
+le réseau étendu (WAN) est un réseau à grande échelle qui relie plusieurs sites ou des ordinateurs du monde entier
+
+src=https://fr.wikipedia.org/wiki/R%C3%A9seau_informatique
+
 _Qu’est-ce que KISS ?
 
 _Un antivirus est-il utile sous Windows ? Sous Mac
