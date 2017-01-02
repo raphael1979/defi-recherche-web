@@ -509,6 +509,13 @@ src=https://fr.wikipedia.org/wiki/Technique_Pomodoro
 
 _Qu’est-ce qu’Amazon Web Services - AWS ?
 
+Amazon Web Services (AWS) est une division du groupe américain de commerce électronique Amazon.com, dédiée aux services de cloud computing pour les entreprises et particuliers. En 2015, AWS génère 7% du chiffre d'affaires d'Amazon et représente la première source de profit de l'entreprise.
+Lancé officiellement en 2006 par Andy Jassy, Amazon Web Services fournit des services en lignes à d'autres sites internet ou applications clientes. La plupart d'entre eux ne sont pas directement exposés à l'utilisateur final, mais offrent des fonctionnalités que d'autres développeurs peuvent utiliser. En juin 2007, Amazon revendiquait plus de 330 000 développeurs ayant souscrit pour l'utilisation des Amazon Web Services.
+
+En avril 2016, Andy Jassy, jusqu'alors vice-président sénior en charge d'AWS, est nommé Président de la division, dans l'optique d'une potentielle introduction en Bourse.
+
+src=https://fr.wikipedia.org/wiki/Amazon_Web_Services
+
 _Qui est Sundar Pichai ?
 
 _Quelle est la répartition des systèmes
