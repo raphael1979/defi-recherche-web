@@ -518,6 +518,18 @@ src=https://fr.wikipedia.org/wiki/Amazon_Web_Services
 
 _Qui est Sundar Pichai ?
 
+Sundar Pichai est diplômé en 1993 de l'institut indien de technologie de Kharagpur, où il a étudié la métallurgie et l'ingénierie des matériaux. Par la suite, il obtient un master en « engineering and materials » à l'université Stanford, et un MBA à la Wharton School1.
+
+Il travaille ensuite pour le constructeur de semi-conducteurs Applied Materials, et en tant que consultant en management pour McKinsey.
+
+Il rejoint Google en 2004 en tant que vice-président pour le management produit, et dirige iGoogle, Google Toolbar, Google Desktop Search, Google Gadgets, Google Pack et Gears. En 2011 il est nommé senior vice president de Chrome et G Suite, et supervise à ce titre le développement de Chrome, Chrome OS, Gmail, Calendar, Docs et Drive.
+
+En mars 2013, il est nommé à la direction d'Android à la place d'Andy Rubin2, en sus de ses responsabilités antérieures.
+
+Le 10 août 2015, il devient le nouveau PDG de Google3 à la suite de la restructuration de l'entreprise et la création de la nouvelle société Alphabet.
+
+src=https://fr.wikipedia.org/wiki/Sundar_Pichai
+
 _Quelle est la répartition des systèmes
 d'exploitation pour les pc personnels ?
 
