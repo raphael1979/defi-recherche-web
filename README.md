@@ -417,6 +417,18 @@ src=http://zelaurent.com/video/10-chiffres-les-plus-impressionnants-sur-youtube
 
 _Que sont les White Hat et les Black Hat ?
 
+Un white hat (en français : « chapeau blanc ») est un hacker éthique ou un expert en sécurité informatique qui réalise des tests d'intrusion et d'autres méthodes de test afin d'assurer la sécurité des systèmes d'information d'une organisation. Par définition, les « white hats » avertissent les auteurs lors de la découverte de vulnérabilités. Ils s'opposent aux black hats, qui sont les hackers mal intentionnés.
+
+src=https://fr.wikipedia.org/wiki/White_hat
+
+Un black hat (en français : « chapeau noir ») est, en argot informatique, un hacker mal intentionné, par opposition aux white hats, qui sont les hackers aux bonnes intentions. Ces termes auraient pour origine les films de western, où le héros ou le shérif porte un chapeau blanc tandis que le bandit porte un chapeau noir.
+
+Les black hats ont une nette préférence pour les actions illégales. Cela va de la création de virus aux chevaux de Troie en passant par les vers et les logiciels espions.
+
+Ces personnes utilisent leurs compétences informatiques de façon à en tirer un bénéfice financier ou bien dans le but de nuire à des individus ou à des organisations (mais dans ce cas on parle plutôt de cybercriminalité ou de cyberterrorisme). Plus généralement, ils utilisent leur savoir pour découvrir des choses qui leur sont cachées. Leur nombre ne cesse de grandir étant donné la valeur de plus en plus grande des informations dans la guerre économique.
+
+src=https://fr.wikipedia.org/wiki/Black_hat
+
 _Qu’est-ce qu’une attaque DDoS ?
 
 _Quelles est l'adresse MAC de votre ordinateur ?
