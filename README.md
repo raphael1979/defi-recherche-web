@@ -533,6 +533,10 @@ src=https://fr.wikipedia.org/wiki/Sundar_Pichai
 _Quelle est la répartition des systèmes
 d'exploitation pour les pc personnels ?
 
+Aujourd’hui les offres de Google dominent à 42%, devant Apple (24%) et Microsoft (20%).
+
+src=http://www.silicon.fr/linux-deux-fois-plus-utilise-que-windows-82907.html
+
 _Qu'est-ce qu'une Cheatsheet ?
 
 _Combien de requêtes y-a-t-il sur Google toutes
