@@ -13,7 +13,8 @@ Qu’est-ce que cela :
 i. 8.8.8.8 Google Public DNS est un service de Google qui consiste à offrir des serveurs DNS récursifs aux utilisateurs d'Internet. Il a été annoncé le 9 décembre 2009. 
 src=wikipedia
 
-ii. 192.168.0.1 192.168.0.1 IP est une adresse IP par défaut utilisée par les routeurs Netgear et D-Link pour s'identifier sur le réseau.src=IP Adress
+ii. 192.168.0.1 192.168.0.1 IP est une adresse IP par défaut utilisée par les routeurs Netgear et D-Link pour s'identifier sur le réseau.
+src=IP Adress
 
 iii. 255.255.255.0 est un sous réseau. 
 src=wikipedia
@@ -102,32 +103,49 @@ src=https://fr.wikipedia.org/wiki/Richard_Stallman
 
 Comment fonctionnent les bang de Duck Duck Go?
 
+DuckDuckGo est un méta-moteur de recherche dont la société éditrice est située à Valley Forge en Pennsylvanie. Il se distingue en utilisant les informations de crowdsourcing provenant d'autres sites (comme Wikipédia) dans le but d'enrichir les résultats traditionnels et d'améliorer la pertinence. Il propose aussi son propre moteur de recherche.
+
+La philosophie de ce moteur de recherche est de préserver la vie privée et de ne stocker aucune information personnelle concernant les utilisateurs (adresses IP et traces numériques comme la signature du navigateur). Cependant, par défaut, DuckDuckGo relaie des liens sponsorisés (publicités) sur son moteur de recherche.
+scr=https://fr.wikipedia.org/wiki/DuckDuckGo
+
 Qui est Marissa Mayer ?
+
+Marissa Ann Mayer, née le 30 mai 1975 à Wausau dans le Wisconsin, est une informaticienne et chef d'entreprise américaine. Elle occupe le poste de PDG de Yahoo! après 13 ans chez Google en tant que vice-présidente1 responsable des services de cartographie et de géolocalisation.
+src=https://fr.wikipedia.org/wiki/Marissa_Mayer
 
 Qu’est-ce qu’une attaque “brute force” ?
 
-Qui est Linus Torvalds ?
+L'attaque par force brute est une méthode utilisée en cryptanalyse pour trouver un mot de passe ou une clé. Il s'agit de tester, une à une, toutes les combinaisons possibles.
 
+Cette méthode est en général considérée comme la plus simple concevable. Elle permet de casser tout mot de passe en un temps fini indépendamment de la protection utilisée, mais le temps augmente avec la longueur du mot de passe. En théorie la complexité d'une attaque par force brute est une fonction exponentielle de la longueur du mot de passe, la rendant virtuellement impossible pour des mots de passe de longueur moyenne, mais en pratique des optimisations heuristiques peuvent donner des résultats dans des délais beaucoup plus courts.
+
+Cette méthode est souvent combinée avec l'attaque par dictionnaire et par table arc-en-ciel pour trouver le secret plus rapidement.
+src=https://fr.wikipedia.org/wiki/Attaque_par_force_brute
+
+Qui est Linus Torvalds ?
 Quels sont ses plus grands développements ?
 
+Linus Benedict Torvalds, né le 28 décembre 1969 à Helsinki en Finlande, est un informaticien américano-finlandais. Il est connu pour avoir créé en 1991 le noyau Linux dont il continue de diriger le développement. Il en est considéré comme le « dictateur bienveillant ».
+src=https://fr.wikipedia.org/wiki/Linus_Torvalds
 Combien coûte un nom de domaine ?
 
 Quels sont les différents services d'emailing disponibles ?
-Un client vous envoyer des emails
-automatiquement depuis son site web
-(contact, confirmation...), quel service
-allez-vous utiliser et pourquoi ?
+Un client veux vous envoyer des emails automatiquement depuis son site web
+(contact, confirmation...), quel service allez-vous utiliser et pourquoi ?
 
 
 Quelle est votre adress IP actuelle ?
-
 Et celle de votre smartphone ?
-Qu’est-ce que le développement en cycle V ?
-Les Hackers sont-ils des hors-la-loi ?
-Qui a inventé la souris ?
-Qui est Margaret Hamilton ?
-Retrouvez le code source de la mission Apollo 11.
 
+Qu’est-ce que le développement en cycle V ?
+
+Les Hackers sont-ils des hors-la-loi ?
+
+Qui a inventé la souris ?
+
+Qui est Margaret Hamilton ?
+
+Retrouvez le code source de la mission Apollo 11.
 Décrivez le (langage, nb de collaborateurs,
 durée de la mission ...)
 Qu’est-ce que Agile Manifesto ?
