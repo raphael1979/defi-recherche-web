@@ -455,6 +455,10 @@ src=http://www.commentcamarche.net/faq/10935-quelle-est-mon-adresse-mac#sous-lin
 
 _Qui est Tim Berners-Lee ?
 
+Timothy John Berners-Lee, né le 8 juin 1955 à Londres, est un citoyen britannique, principal inventeur du World Wide Web (WWW) au tournant des années 1990. En juillet 2004, il est anobli par la reine Élisabeth II pour ce travail et son nom officiel devient Sir Timothy John Berners-Lee. Depuis 1994, il préside le World Wide Web Consortium (W3C), organisme qu'il a fondé.
+
+src=https://fr.wikipedia.org/wiki/Tim_Berners-Lee
+
 _Comment sont reliés les différents réseaux
 d'internet ?
 
