@@ -184,6 +184,48 @@ src=https://fr.wikipedia.org/wiki/Margaret_Hamilton_(scientifique)
 Retrouvez le code source de la mission Apollo 11.
 Décrivez le (langage, nb de collaborateurs,
 durée de la mission ...)
+
+Partie du code source du Colossus 2A, AKA Comanche 055.
+            Il fait partie du code source du module de commande (CM)
+            Apollo Guidance Computer (AGC), pour Apollo 11.
+SUBMITTED:  MARGARET H. HAMILTON        DATE:   28 MAR 69
+    M.H.HAMILTON, COLOSSUS PROGRAMMING LEADER
+    APOLLO GUIDANCE AND NAVIGATION
+
+APPROVED:   DANIEL J. LICKLY        DATE:   28 MAR 69
+    D.J.LICKLY, DIRECTOR, MISSION PROGRAM DEVELOPMENT
+    APOLLO GUIDANCE AND NAVIGATION PROGRAM
+
+APPROVED:   FRED H. MARTIN          DATE:   28 MAR 69
+    FRED H. MARTIN, COLOSSUS PROJECT MANAGER
+    APOLLO GUIDANCE AND NAVIGATION PROGRAM
+
+APPROVED:   NORMAN E. SEARS         DATE:   28 MAR 69
+    N.E. SEARS, DIRECTOR, MISSION DEVELOPMENT
+    APOLLO GUIDANCE AND NAVIGATION PROGRAM
+
+APPROVED:   RICHARD H. BATTIN       DATE:   28 MAR 69
+    R.H. BATTIN, DIRECTOR, MISSION DEVELOPMENT
+    APOLLO GUIDANCE AND NAVIGATION PROGRAM
+
+APPROVED:   DAVID G. HOAG           DATE:   28 MAR 69
+    D.G. HOAG, DIRECTOR
+    APOLLO GUIDANCE AND NAVIGATION PROGRAM
+
+APPROVED:   RALPH R. RAGAN          DATE:   28 MAR 69
+    R.R. RAGAN, DEPUTY DIRECTOR
+    INSTRUMENTATION LABORATORY
+
+
+Apollo 11 est une mission du programme spatial américain Apollo au cours de laquelle, pour la première fois, des hommes se sont posés sur la Lune, le 20 juillet 1969. Apollo 11 est la troisième mission habitée à s'approcher de la Lune, après Apollo 8 et Apollo 10, et la cinquième mission habitée du programme Apollo. Par cet exploit, l'agence spatiale américaine, la NASA, remplit l'objectif fixé par le président John F. Kennedy en 1961 de poser un équipage sain et sauf sur la Lune avant la fin des années 1960 et démontre sans contestation possible la supériorité des États-Unis sur l'Union soviétique dans le domaine des vols spatiaux habités. Apollo 11 est l'aboutissement d'un projet qui a mobilisé des moyens humains et financiers considérables permettant à l'agence spatiale de rattraper son retard sur l'astronautique soviétique puis de dépasser celle-ci.
+
+La mission est lancée depuis le centre spatial Kennedy le 16 juillet 1969 par la fusée géante Saturn V développée pour ce programme. Elle emporte un équipage composé de Neil Armstrong, commandant de la mission et pilote du module lunaire, Edwin « Buzz » Aldrin, qui accompagne Armstrong sur le sol lunaire, et Michael Collins, pilote du module de commande qui restera en orbite lunaire. Armstrong et Aldrin, après un alunissage comportant quelques péripéties, séjournent 21 heures et 30 minutes à la surface de la Lune et effectuent une sortie extravéhiculaire unique d'une durée de 2 heures et demie. Après avoir redécollé et réalisé un rendez-vous en orbite lunaire avec le module de commande, le vaisseau Apollo reprend le chemin de la Terre et amerrit sans incident dans l'océan Pacifique à l'issue d'un vol qui aura duré en tout 195 heures.
+
+Au cours de la mission Apollo 11, 21,7 kilogrammes de roche et de sol lunaires sont collectés et plusieurs instruments scientifiques sont installés sur la surface de notre satellite. Bien que l'objectif scientifique d'Apollo 11 ait été limité par la durée du séjour sur la Lune et la capacité d'emport réduite des vaisseaux spatiaux utilisés, la mission fournit des résultats substantiels. Son déroulement, en particulier les premiers pas sur la Lune filmés par une caméra vidéo et retransmis en direct, constituent un événement suivi sur toute la planète par des centaines de millions de personnes.
+src=https://github.com/chrislgarry/Apollo-11/blob/master/README.md
+src=https://fr.wikipedia.org/wiki/Apollo_11
+
+
 Qu’est-ce que Agile Manifesto ?
 Trouvez un screenshot de la première version de
 Facebook
