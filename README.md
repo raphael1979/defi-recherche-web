@@ -318,9 +318,14 @@ Ces techniques sont par exemple très utilisées dans le domaine des services HT
 La répartition de charge est issue de la recherche dans le domaine des ordinateurs parallèles. L'architecture la plus courante est constituée de plusieurs répartiteurs de charge (genres de routeurs dédiés à cette tâche), un principal, et un ou plusieurs de secours pouvant prendre le relais, et d'une collection d'ordinateurs similaires effectuant les calculs. On peut appeler cet ensemble de serveurs une ferme de serveurs (anglais server farm) ou de façon plus générique, une grappe de serveurs (anglais server cluster). On parle encore de server pool (littéralement, « groupe de serveurs »).
 
 src=https://fr.wikipedia.org/wiki/R%C3%A9partition_de_charge
+
 _Qu’est-ce que l’Open Source ?
 
 _Qu’est-ce que le Bug Bounty ?
+
+Un bug bounty est un programme proposé par de nombreux sites web et développeurs de logiciel qui permet à des personnes de recevoir reconnaissance et compensation après avoir reporté des bugs, surtout ceux concernant des exploits et des vulnérabilités. Ces programmes permettent aux développeurs de découvrir et de corriger des bugs avant que le grand public en soit informé, évitant ainsi des abus. Les bugs bounty ont été mis en place par Facebook, Yahoo!, Google, Reddit et Square.
+
+src=https://fr.wikipedia.org/wiki/Bug_bounty
 
 _Qu'est-ce qu'une adresse IP v4 ?
 
