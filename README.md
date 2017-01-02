@@ -633,6 +633,10 @@ src=https://fr.wikipedia.org/wiki/Xkcd
 
 _Qu’est-ce que Mr Robot ?
 
+Mr. Robot est une série télévisée américaine créée par Sam Esmail et diffusée depuis le 24 juin 20151 sur USA Network et depuis le 5 septembre 2015 sur Showcase2 au Canada. Le pilote a été diffusé dès le 26 mai 2015 sur plusieurs plateformes de VOD en partie pour anticiper le piratage ou le partage de vidéos.
+
+src=https://fr.wikipedia.org/wiki/Mr._Robot_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)
+
 _Qu’est-ce que OpQuast ?
 
 _Quelles sont les communautés de dev de St-Go?
