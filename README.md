@@ -300,8 +300,24 @@ src=https://blog.shareaholic.com/happy-facebook-ipo-day-10-screenshots-of-the-ol
 _Quelle est la répartition des systèmes
 d'exploitation pour les serveurs (uniquement) ?
 
+
+Part de marché des systèmes d’exploitation des PC (%)
+en  Novembre 2016
+Windows : 90.95%
+Mac Os : 6.74%
+Linux : 2.31%
+
+src=http://www.zdnet.fr/actualites/chiffres-cles-les-systemes-d-exploitation-sur-pc-39790131.htm
+
 _Qu'est-ce que le load balancing ?
 
+En informatique, la répartition de charge (en anglais : load balancing) est un ensemble de techniques permettant de distribuer une charge de travail entre différents ordinateurs d'un groupe. Ces techniques permettent à la fois de répondre à une charge trop importante d'un service en la répartissant sur plusieurs serveurs, et de réduire l'indisponibilité potentielle de ce service que pourrait provoquer la panne logicielle ou matérielle d'un unique serveur1,2.
+
+Ces techniques sont par exemple très utilisées dans le domaine des services HTTP où un site à forte audience doit pouvoir gérer des centaines de milliers de requêtes par seconde.
+
+La répartition de charge est issue de la recherche dans le domaine des ordinateurs parallèles. L'architecture la plus courante est constituée de plusieurs répartiteurs de charge (genres de routeurs dédiés à cette tâche), un principal, et un ou plusieurs de secours pouvant prendre le relais, et d'une collection d'ordinateurs similaires effectuant les calculs. On peut appeler cet ensemble de serveurs une ferme de serveurs (anglais server farm) ou de façon plus générique, une grappe de serveurs (anglais server cluster). On parle encore de server pool (littéralement, « groupe de serveurs »).
+
+src=https://fr.wikipedia.org/wiki/R%C3%A9partition_de_charge
 _Qu’est-ce que l’Open Source ?
 
 _Qu’est-ce que le Bug Bounty ?
