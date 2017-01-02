@@ -404,6 +404,10 @@ src=https://fr.wikipedia.org/wiki/Philip_Zimmermann
 
 _Qu’est-ce que le W3C ?
 
+Le World Wide Web Consortium, abrégé par le sigle W3C, est un organisme de standardisation à but non lucratif, fondé en octobre 1994 chargé de promouvoir la compatibilité des technologies du World Wide Web telles que HTML5, HTML, XHTML, XML, RDF, SPARQL, CSS, XSL, PNG, SVG et SOAP. Fonctionnant comme un consortium international, il regroupe au 26 février 2013, 383 entreprises partenaires.
+
+src=https://fr.wikipedia.org/wiki/World_Wide_Web_Consortium
+
 _Combien d’heures de vidéo sont mises en ligne
 chaque minute sur Youtube ?
 
