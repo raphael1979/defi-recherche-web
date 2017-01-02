@@ -345,6 +345,10 @@ src=https://fr.wikipedia.org/wiki/Adresse_IP#IPv4
 _Combien coûte un serveur pour héberger mon
 site perso ?
 
+Pour héberger mon site perso il faut prévoir une somme comprise entre 3€ et 10€ par mois selon la qualité de l'hebergeur. Il existe bien sûr des hébergeurs gratuit mais ceux-ci proposent moins de contenu.
+
+src=http://www.hosting-review.com/euro-fr.php
+
 _Qu’est-ce que le Cowboy coding ?
 
 _Quelles sont les langages de programmation les
