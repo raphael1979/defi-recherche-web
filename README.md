@@ -488,6 +488,10 @@ src=https://fr.wikipedia.org/wiki/Principe_KISS
 _Un antivirus est-il utile sous Windows ? Sous Mac
 ? Sous Linux ?
 
+oui il est préférable d'avoir un antivirus surtout sous Windows qui est attaqué très facilement par les "pirates informatiques", sous Mac il est conseillé mais pas obligatoire .Linux lui fonctionne sans antivirus il faut juste faire les mises à jour.
+
+src=https://forum.ubuntu-fr.org/viewtopic.php?id=1213541  
+
 _En quoi consiste la méthode Pomodoro ?
 Avantages et inconvénients ?
 
