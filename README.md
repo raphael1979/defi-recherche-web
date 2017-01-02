@@ -3,22 +3,22 @@ _Par qui, quand, pourquoi et où a été inventé Internet ?
 
 A la base Internet est projet de developpement de la defense et son objectif n'était ni commercial ni social. Cependant l'idée de base d'internet provient d'une entreprise privée (BBN), c’est J.C. R. Licklider, un scientifique de BBN, qui, en 1960, a discuté d’un réseau informatique dans son rapport Man-Computer Symbiosis. Internet est apparu en 1968 suite au projet ARPANET Aux Etats Unis d'Amerique. 
 
-src Contrepoints
+src=https://fr.wikipedia.org/wiki/Internet
 
 _Quelle est la différence entre le Web et Internet ?
 
 Internet (contraction de Inter Network) est un réseau informatique qui relie des ordinateurs entre eux à l'échelle du monde. Le web (abréviation de World Wide Web ou toile mondiale) est donc un service d'Internet parmi d'autres. 
 
-src=wikipedia
+src=http://www.gralon.net/articles/internet-et-webmaster/logiciel/article-quelle-est-la-difference-entre-web-et-internet--8644.htm
 
 _Qu’est-ce que cela :
 _i. 8.8.8.8 Google Public DNS est un service de Google qui consiste à offrir des serveurs DNS récursifs aux utilisateurs d'Internet. Il a été annoncé le 9 décembre 2009. 
 
-src=wikipedia
+src=https://fr.wikipedia.org/wiki/Google_Public_DNS
 
 _ii. 192.168.0.1 192.168.0.1 IP est une adresse IP par défaut utilisée par les routeurs Netgear et D-Link pour s'identifier sur le réseau.
 
-src=IP Adress
+src=IP Adress 
 
 _iii. 255.255.255.0 est un sous réseau. 
 
@@ -34,13 +34,14 @@ Le copyright, souvent indiqué par le symbole ©, est, dans les pays de common l
 
 Le copyleft est l'autorisation donnée par l'auteur d'un travail soumis au droit d'auteur (œuvre d'art, texte, programme informatique ou autre) d'utiliser, d'étudier, de modifier et de diffuser son œuvre, dans la mesure où cette même autorisation reste préservée.
 
-src = Wikipedia
+src=https://fr.wikipedia.org/wiki/Copyleft
+src=https://fr.wikipedia.org/wiki/Copyright
 
 _Que sont les Creatives Commons ?
 
 Creative Commons (CC) est une organisation à but non lucratif dont le but est de proposer une solution alternative légale aux personnes souhaitant libérer leurs œuvres des droits de propriété intellectuelle standard de leur pays, jugés trop restrictifs1. L’organisation a créé plusieurs licences, connues sous le nom de licences Creative Commons. Ces licences, selon leur choix, donnent aucun ou seulement quelques droits aux travaux.
 
-src = Wikipedia
+src =https://fr.wikipedia.org/wiki/Creative_Commons
 
 _Qui est Grace Hopper ?
 
@@ -297,63 +298,105 @@ src=https://blog.shareaholic.com/happy-facebook-ipo-day-10-screenshots-of-the-ol
 
 _Quelle est la répartition des systèmes
 d'exploitation pour les serveurs (uniquement) ?
+
 _Qu'est-ce que le load balancing ?
+
 _Qu’est-ce que l’Open Source ?
+
 _Qu’est-ce que le Bug Bounty ?
+
 _Qu'est-ce qu'une adresse IP v4 ?
+
 _Pourquoi parle-t-on aussi d'adresse IP v6 ?
+
 _Combien coûte un serveur pour héberger mon
 site perso ?
+
 _Qu’est-ce que le Cowboy coding ?
+
 _Quelles sont les langages de programmation les
 plus plébiscités aujourd'hui ?
+
 _Quelles sont les différences entre un software
 open-source et un software free ?
+
 _Trouvez trois entreprises qui développent des
 solutions Free & OpenSource
 comment gagnent-elles de l’argent ?
+
 _Qui est Phil Zimmermann ?
+
 _Qu’est-ce que le W3C ?
+
 _Combien d’heures de vidéo sont mises en ligne
 chaque minute sur Youtube ?
+
 _Que sont les White Hat et les Black Hat ?
+
 _Qu’est-ce qu’une attaque DDoS ?
+
 _Quelles est l'adresse MAC de votre ordinateur ?
 _Et de votre smartphone ?
+
 _Trouvez 5 entreprises qui recrutent sur Toulouse
 un développeur web junior
+
 _Qui est Tim Berners-Lee ?
+
 _Comment sont reliés les différents réseaux
 d'internet ?
+
 _Qu’est-ce que KISS ?
+
 _Un antivirus est-il utile sous Windows ? Sous Mac
 ? Sous Linux ?
+
 _En quoi consiste la méthode Pomodoro ?
 Avantages et inconvénients ?
+
 _Qu’est-ce qu’Amazon Web Services - AWS ?
+
 _Qui est Sundar Pichai ?
+
 _Quelle est la répartition des systèmes
 d'exploitation pour les pc personnels ?
+
 _Qu'est-ce qu'une Cheatsheet ?
+
 _Combien de requêtes y-a-t-il sur Google toutes
 les minutes ?
+
 _Qu’est-ce que les joies du code ?
+
 _Qui sont Larry Page et Sergey Brin ?
+
 _Convertissez en binaire 2, 5, 12, 25, 512
+
 _Convertissez en hexadécimal 2, 5, 12, 25, 512
+
 _Convertissez du binaire vers le système “classique” (base 10) 100, 1011, 11111, 11110110101
+
 _Quelles sont les nouveautés apportées par le HTML 5 ?
+
 _Qu’est-ce que ECMAScript 2015 ?
+
 _Quelles nouveautés par rapport à la version précédente?
 _Quelles différences avec ES 6 ?
+
 _Quelles sont les différences entre application native,
 application hybride, application cross-platform et web
 application ?
+
 _Qu’est-ce que xkcd ?
+
 _Qu’est-ce que Mr Robot ?
+
 _Qu’est-ce que OpQuast ?
+
 _Quelles sont les communautés de dev de St-Go?
+
 _Quels sont les prochains événements tech sur St-Go?
+
 _Quelles sont les différences entre un client web et un
 serveur web ?
 Donnez 3 exemples de chaque
