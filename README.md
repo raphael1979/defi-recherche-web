@@ -178,6 +178,9 @@ src=https://fr.wikipedia.org/wiki/Douglas_Engelbart
 
 Qui est Margaret Hamilton ?
 
+Margaret Hamilton, née le 17 août 1936 à Paoli (Indiana), U.S., est une informaticienne et mathématicienne. Elle était directrice du département génie logiciel (« software engineering », terme de son invention1) du MIT Instrumentation Laboratory qui conçut le système embarqué du programme Apollo.
+src=https://fr.wikipedia.org/wiki/Margaret_Hamilton_(scientifique)
+
 Retrouvez le code source de la mission Apollo 11.
 Décrivez le (langage, nb de collaborateurs,
 durée de la mission ...)
