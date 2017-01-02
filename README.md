@@ -546,6 +546,9 @@ src=https://fr.wikipedia.org/wiki/Antis%C3%A8che
 _Combien de requêtes y-a-t-il sur Google toutes
 les minutes ?
 
+2340000 requêtes par minutes.
+src=http://www.planetoscope.com/Internet-/1474-recherches-sur-google.html
+
 _Qu’est-ce que les joies du code ?
 
 _Qui sont Larry Page et Sergey Brin ?
