@@ -294,6 +294,7 @@ src=https://fr.wikipedia.org/wiki/Manifeste_agile
 _Trouvez un screenshot de la première version de Facebook
 
 http://blog.shareaholic.com/wp-content/uploads/2012/05/Facebook-Screenshot-2004.jpg
+
 src=https://blog.shareaholic.com/happy-facebook-ipo-day-10-screenshots-of-the-old-facebook-designs/
 
 _Quelle est la répartition des systèmes
