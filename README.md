@@ -579,9 +579,21 @@ src=http://www.linternaute.com/actualite/savoir/06/milliardaires/larrypage-serge
 
 _Convertissez en binaire 2, 5, 12, 25, 512
 
+10, 101,1100, 11001,1000000000
+
+src=https://www.apprendre-en-ligne.net/crypto/images/bases.html 
+
 _Convertissez en hexadécimal 2, 5, 12, 25, 512
 
+0002, 0005, 000C, 0019, 0200 
+
+src=https://www.apprendre-en-ligne.net/crypto/images/bases.html
+
 _Convertissez du binaire vers le système “classique” (base 10) 100, 1011, 11111, 11110110101
+
+4, 11, 31, 1973
+
+src=https://www.apprendre-en-ligne.net/crypto/images/bases.html
 
 _Quelles sont les nouveautés apportées par le HTML 5 ?
 
