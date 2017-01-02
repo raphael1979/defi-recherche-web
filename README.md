@@ -567,6 +567,16 @@ src=http://lesjoiesducode.fr/a-propos
 
 _Qui sont Larry Page et Sergey Brin ?
 
+Sergey Brin et Larry Page fondateurs de Google
+
+ Fortune : 12,9 et 12,8 milliards de dollars en 2006
+ Age : 32 et 33 ans
+ Nationalité : Américains
+
+Influencé dès son plus jeune âge par son père, professeur d'informatique, Larry Page a commencé à utiliser des ordinateurs dès l'âge de six ans. C'est à l'université de Stanford qu'il rencontre Sergey Brin, étudiant en informatique d'origine russe. Ensemble, ils collaborent sur le projet qui donnera naissance en 1998 à "Google" (du nom donné au chiffre 1 suivi de 100 zéros). En quelques années, Google est devenu le moteur de recherche le plus utilisé au monde : il recense plus de 8 milliards de pages Web traduites en 35 langues et un milliard d'images. Depuis l'entrée en bourse de Google en 2004, les fondateurs du moteur de recherche ont vu leur fortune exploser : Sergey Brin, et Larry Page occupent respectivement la 26 et 27ème places du classement.
+
+src=http://www.linternaute.com/actualite/savoir/06/milliardaires/larrypage-sergeybrin.shtml
+
 _Convertissez en binaire 2, 5, 12, 25, 512
 
 _Convertissez en hexadécimal 2, 5, 12, 25, 512
