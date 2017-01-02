@@ -443,10 +443,15 @@ _Et de votre smartphone ?
 Adresse MAC de mon ordinateur : 24:b6:fd:fb:9a:39
 terminal ifconfig HWaddr
 src=http://www.commentcamarche.net/faq/10935-quelle-est-mon-adresse-mac#sous-linux
+
 Adresse MAC de mon smartphone : 5C:2E:59:24:8D:CD
 
 _Trouvez 5 entreprises qui recrutent sur Toulouse
 un développeur web junior
+
+Capgemini assystem labsoft Koncept et Hays.
+
+src=http://www.commentcamarche.net/faq/10935-quelle-est-mon-adresse-mac#sous-linux
 
 _Qui est Tim Berners-Lee ?
 
