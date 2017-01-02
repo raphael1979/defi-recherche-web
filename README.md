@@ -149,6 +149,11 @@ src= mon smarphone
 
 Qu’est-ce que le développement en cycle V ?
 
+Le modèle du cycle en V a été imaginé pour pallier le problème de réactivité du modèle en cascade. Ce modèle est une amélioration du modèle en cascade qui permet en cas d'anomalie, de limiter un retour aux étapes précédentes. Les phases de la partie montante doivent renvoyer de l'information sur les phases en vis-à-vis lorsque des défauts sont détectés afin d'améliorer le logiciel.
+
+De plus le cycle en V met en évidence la nécessité d'anticiper et de préparer dans les étapes descendantes les « attendus » des futures étapes montantes : ainsi les attendus des tests de validation sont définis lors des spécifications, les attendus des tests unitaires sont définis lors de la conception, etc.
+src=https://fr.wikipedia.org/wiki/Cycle_de_d%C3%A9veloppement_(logiciel)#Cycle_en_V
+
 Les Hackers sont-ils des hors-la-loi ?
 
 Qui a inventé la souris ?
