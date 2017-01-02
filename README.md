@@ -411,6 +411,10 @@ src=https://fr.wikipedia.org/wiki/World_Wide_Web_Consortium
 _Combien d’heures de vidéo sont mises en ligne
 chaque minute sur Youtube ?
 
+La  Quantité de contenu a télécharger chaque minute sur YouTube est de 13 heures.
+
+src=http://zelaurent.com/video/10-chiffres-les-plus-impressionnants-sur-youtube
+
 _Que sont les White Hat et les Black Hat ?
 
 _Qu’est-ce qu’une attaque DDoS ?
