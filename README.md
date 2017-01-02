@@ -156,6 +156,21 @@ src=https://fr.wikipedia.org/wiki/Cycle_de_d%C3%A9veloppement_(logiciel)#Cycle_e
 
 Les Hackers sont-ils des hors-la-loi ?
 
+Les Hackers sont des gens qui s’infiltrent dans un ordinateur en passant par un modem ou un réseau .La plupart du temps les Hackers piratent juste pour le plaisir d’aller là ou il ne faut pas .
+
+A noter que les " pirates " sont des Hackers qui se servent de leurs connaissance pour enlever la protection donc altérer le système. Nous avons pu constater que les pirates s’attaquent surtout à des lieux connus et importants comme :
+
+Les banques, les hôpitaux, les lieux scolaires, les universités, les organismes publiques, les lieux gouvernementaux, mais aussi des petites entreprises ou encore l’ordinateur d’un particulier.
+
+Mais pourquoi les pirates s’attaquent-ils à des lieux importants, deux raisons nous sont apparues :
+
+Les pirates s’attaquent à des particuliers ou des petites entreprises souvent juste pour s’amuser.
+La seconde raison consiste à ce que les pirates s’attaquent surtout à des grandes organisations contre une rançon, la libération de quelqu’un, etc.Comme quoi, plus l’entreprise est importante, plus la protection doit être grande. Mais cela ne veut pas dire qu’il ne faut pas protéger votre ordinateur. Mais un pirate agit quand il veut et ou il veut dès qu’il sait que quelqu’un utilise un modem ou qu’il est en train de surfer sur Internet.
+Ici celui qui tue les ordi, les serveurs, ou pille des banques de données, etc etc..... est un hors la loi
+Donc le hackeur est hors la loi (bien que hackeur ne soit pas toujours pirater dans un but nuisif!).
+src=http://www.rpn.ch/esc2t/pages/activites/pirates.html
+src=http://dubrom.free.fr/Hacking.htm
+
 Qui a inventé la souris ?
 
 Qui est Margaret Hamilton ?
