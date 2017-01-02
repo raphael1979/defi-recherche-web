@@ -479,6 +479,12 @@ src=https://fr.wikipedia.org/wiki/R%C3%A9seau_informatique
 
 _Qu’est-ce que KISS ?
 
+Keep it simple, stupid (en français, mot à mot : « garde ça simple, idiot », dans le sens de « ne complique pas les choses »), ou principe KISS, est une ligne directrice de conception qui préconise la simplicité dans la conception et que toute complexité non indispensable devrait être évitée dans toute la mesure du possible. Ce principe est appliqué dans grand nombre de disciplines telles que le développement logiciel, l'animation, le journalisme, la photographie, l'ingénierie, l'aviation et la planification stratégique.
+
+La complexité, souvent utile pour assurer de bonnes performances, est en effet elle-même une source de coûts de conception et de maintenance, ainsi qu'une source potentielle d'erreurs. L'idée est de ne pas optimiser quoi que ce soit avant de maîtriser totalement une version simple de ce que l'on crée. Dans le produit fini, la simplicité d'usage, même au prix de renoncer à quelques fonctionnalités, est aussi un moyen de séduire l'utilisateur qui maîtrisera pour sa part l'usage du produit.
+
+src=https://fr.wikipedia.org/wiki/Principe_KISS
+
 _Un antivirus est-il utile sous Windows ? Sous Mac
 ? Sous Linux ?
 
