@@ -380,7 +380,27 @@ _Trouvez trois entreprises qui développent des
 solutions Free & OpenSource
 comment gagnent-elles de l’argent ?
 
+iDempiere, odoo et webERP
+
+src=http://blog.capterra.com/free-open-source-erp-software/
+
 _Qui est Phil Zimmermann ?
+
+Philip Zimmermann a été le premier à mettre à la disposition du public un logiciel de chiffrement facilement utilisable fondé sur la technique de la clé asymétrique (ou clé publique). Cela lui valut une enquête criminelle de trois ans de la part des Douanes américaines, au prétexte d'avoir violé les restrictions sur l'exportation de logiciels de cryptographie en diffusant PGP dans le monde entier (PGP avait été publié en 1991 sur le web comme logiciel libre).
+
+Sous l'influence des banques (ayant besoin de protéger les données communiquées aux clients)1, la procédure fut classée sans suite début 1996. Zimmermann fonda alors PGP Inc. Cette société a été achetée par Network Associates (NAI) en décembre 1997. Il y est resté trois ans en tant que senior fellow. En 2002, PGP a été achetée à NAI par une nouvelle société appelée PGP Corporation, dans laquelle Zimmermann exerce actuellement la fonction de conseiller spécial. Zimmermann est aussi associé de la Stanford Law School's Center for Internet and Society.
+
+Zimmermann a reçu de nombreuses distinctions techniques et humanitaires pour son travail innovant dans le domaine de la cryptographie.
+
+En 2006, il a créé Zfone, un logiciel de chiffrement de communication de téléphonie sur Internet au standard ouvert SIP, fonctionnant en P2P.
+
+En juin 2010, la Société PGP a été acquise par Symantec2. C'est le cinquième propriétaire après Philip Zimmermann, PGP Inc (Philip Zimmermann était président de cette compagnie) puis Network Associates et PGP Corp.
+
+En 2012, il se lance dans la création de Silent Circle, une application permettant de chiffrer les communications entre deux téléphones mobiles3 et basé sur le protocole ZRTP dont il a contribué à l'élaboration.
+
+En 2014, il collabore à la création du Blackphone, un téléphone protégé destiné au grand public.
+
+src=https://fr.wikipedia.org/wiki/Philip_Zimmermann
 
 _Qu’est-ce que le W3C ?
 
