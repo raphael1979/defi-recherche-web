@@ -431,6 +431,12 @@ src=https://fr.wikipedia.org/wiki/Black_hat
 
 _Qu’est-ce qu’une attaque DDoS ?
 
+Une attaque DDoS vise à rendre un serveur, un service ou une infrastructure indisponibles en surchargeant la bande passante du serveur, ou en accaparant ses ressources jusqu'à épuisement.
+
+Lors d'une attaque DDoS, une multitude de requêtes sont envoyées simultanément, depuis de multiples points du Net. L'intensité de ce "tir croisé" rend le service instable, ou pire, indisponible.
+
+src=https://www.ovh.com/fr/anti-ddos/principe-anti-ddos.xml
+
 _Quelles est l'adresse MAC de votre ordinateur ?
 _Et de votre smartphone ?
 
