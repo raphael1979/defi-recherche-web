@@ -57,13 +57,13 @@ scr=http://www.presse-citron.net/anecdote-connaissez-vous-lorigine-du-bug-inform
 
 Qui est Aaron Swartz ?
 
-Aaron Hillel Swartz (né le 8 novembre 1986 à Chicago, mort le 11 janvier 2013 à New York1) est un informaticien américain, écrivain, meneur politique et militant de l'Internet.
+Aaron Hillel Swartz (né le 8 novembre 1986 à Chicago, mort le 11 janvier 2013 à New York) est un informaticien américain, écrivain, meneur politique et militant de l'Internet.
 
-Swartz s'est impliqué dans le développement du format de flux Web RSS2, l'organisation Creative Commons3, le cadriciel de site Web web.py4 et le site d'actualité Reddit, dans lequel il est devenu associé après fusion avec sa compagnie, Infogaminote 1.
+Swartz s'est impliqué dans le développement du format de flux Web RSS, l'organisation Creative Commons, le cadriciel de site Web web.py et le site d'actualité Reddit, dans lequel il est devenu associé après fusion avec sa compagnie, Infogaminote 1.
 
-Les travaux de Swartz ont également porté sur la sociologie, l'éducation civique et le militantisme5,6.
+Les travaux de Swartz ont également porté sur la sociologie, l'éducation civique et le militantisme.
 
-Il a aidé à lancer le Progressive Change Campaign Committee (en) en 2009, afin d'en apprendre plus sur le cybermilitantisme et son efficacité. En 2010, il est devenu chercheur au laboratoire « Safra » de recherche sur la corruption institutionnelle de l'université Harvard, dirigé par Lawrence Lessig7,8.
+Il a aidé à lancer le Progressive Change Campaign Committee (en) en 2009, afin d'en apprendre plus sur le cybermilitantisme et son efficacité. En 2010, il est devenu chercheur au laboratoire « Safra » de recherche sur la corruption institutionnelle de l'université Harvard, dirigé par Lawrence Lessig.
 
 Il a fondé le cyber-groupe Demand Progress, connu pour sa campagne contre le Stop Online Piracy Act (SOPA).
 
@@ -138,7 +138,14 @@ Un client veux vous envoyer des emails automatiquement depuis son site web
 
 
 Quelle est votre adress IP actuelle ?
+
+Mon adresse IP est : 90.120.141.217
+src=http://www.mon-ip.com/
+
 Et celle de votre smartphone ?
+
+mon adresse IP est : 192.168.1.11
+src= mon smarphone
 
 Qu’est-ce que le développement en cycle V ?
 
