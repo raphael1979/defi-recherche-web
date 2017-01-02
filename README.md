@@ -321,6 +321,12 @@ src=https://fr.wikipedia.org/wiki/R%C3%A9partition_de_charge
 
 _Qu’est-ce que l’Open Source ?
 
+La désignation open source, ou « code source ouvert », s'applique aux logiciels (et s'étend maintenant aux œuvres de l'esprit) dont la licence respecte des critères précisément établis par l'Open Source Initiative, c'est-à-dire les possibilités de libre redistribution, d'accès au code source et de création de travaux dérivés. Mis à la disposition du grand public, ce code source est généralement le résultat d'une collaboration entre programmeurs.
+
+L’open source a déjà investi tous les grands domaines du système d’information des administrations françaises1 : environnements serveurs, domaines applicatifs, outils d’ingénierie, solutions de réseaux et sécurité. Les solutions open source sont désormais au même rang que les solutions propriétaires dans le paysage des logiciels du secteur public. Les décideurs effectuent d’ailleurs de plus en plus leur choix à partir d’un jugement éclairé, en comparant systématiquement solutions propriétaires et solution libres.
+
+src=https://fr.wikipedia.org/wiki/Open_source#M.C3.A9thodologie_de_d.C3.A9veloppement
+
 _Qu’est-ce que le Bug Bounty ?
 
 Un bug bounty est un programme proposé par de nombreux sites web et développeurs de logiciel qui permet à des personnes de recevoir reconnaissance et compensation après avoir reporté des bugs, surtout ceux concernant des exploits et des vulnérabilités. Ces programmes permettent aux développeurs de découvrir et de corriger des bugs avant que le grand public en soit informé, évitant ainsi des abus. Les bugs bounty ont été mis en place par Facebook, Yahoo!, Google, Reddit et Square.
@@ -328,8 +334,13 @@ Un bug bounty est un programme proposé par de nombreux sites web et développeu
 src=https://fr.wikipedia.org/wiki/Bug_bounty
 
 _Qu'est-ce qu'une adresse IP v4 ?
-
 _Pourquoi parle-t-on aussi d'adresse IP v6 ?
+
+Une adresse IP (avec IP pour Internet Protocol) est un numéro d'identification qui est attribué de façon permanente ou provisoire à chaque appareil connecté à un réseau informatique utilisant l'Internet Protocol. L'adresse IP est à la base du système d'acheminement (le routage) des messages sur Internet.
+
+Il existe des adresses IP de version 4 (sur 32 bits, soit 4 octets) et de version 6 (sur 128 bits, soit 16 octets). La version 4 est actuellement la plus utilisée : elle est généralement représentée en notation décimale avec quatre nombres compris entre 0 et 255, séparés par des points, ce qui donne par exemple : 172.16.254.1 (l'adresse qui figure sur l'image ci-dessous). Les plages d'adresses IPv4 étant proches de la saturation, les opérateurs incitent à la transition d'IPv4 vers IPv6.
+
+src=https://fr.wikipedia.org/wiki/Adresse_IP#IPv4
 
 _Combien coûte un serveur pour héberger mon
 site perso ?
