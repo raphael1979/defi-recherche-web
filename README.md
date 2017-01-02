@@ -368,6 +368,14 @@ src=http://fr.ubergizmo.com/2016/08/01/javascript-langage-le-plus-populaire.html
 _Quelles sont les différences entre un software
 open-source et un software free ?
 
+Open Source met l'accent sur la disponibilité du code source aux utilisateurs de logiciels. Cela signifie non seulement que le code source est disponible sans frais et sans trop de difficulté, mais aussi que les utilisateurs peuvent modifier le code source et redistribuer les résultats sous les mêmes conditions. Bruce Perens a écrit la définition originelle de l'Open Source pour Debian.
+
+Free Software met l'accent sur la liberté de modifier et de réutiliser les logiciels, exigeant, bien entendu, que le code source soit également facilement disponible. Richard M. Stallman a lancé le définition du Logiciel Libre dans le cadre de la création de la Free Software Foundation et de son projet GNU (GNU's Not Unix) pour créer un système d'exploitation entièrement libre compatible avec Unix et un ensemble d'outils logiciels. Les logiciels GNU avec le noyau Linux, plus les contributions de nombreuses autres sources, constituent le système d'exploitation GNU/Linux communément appelé Linux.
+
+Donc, en pratique, les différences de sens entre les deux ne sont pas grandes, mais elles conduisent à des différences dans l'attitude, la terminologie, et l'utilisation spécifique des termes de la licence. Une des raisons de la différence de terminologie est que « Free » est ambigu en anglais. F.S.F. a expliqué que cela signifie, « Free as in Free Speech, not as in Free Beer » (libre comme liberté d'expression pas comme bière gratuite). Pour contrer cela, le terme français sans ambiguïté : « Libre » peut être ajouté dans Floss : Free (Libre) Open Source Software.
+
+src=https://fr.flossmanuals.net/faq-floss-manuals-francophone/quest-ce-que-lopen-source-et-quelle-est-la-difference-entre-free-libre-et-open/
+
 _Trouvez trois entreprises qui développent des
 solutions Free & OpenSource
 comment gagnent-elles de l’argent ?
