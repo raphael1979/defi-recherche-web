@@ -495,6 +495,18 @@ src=https://forum.ubuntu-fr.org/viewtopic.php?id=1213541
 _En quoi consiste la méthode Pomodoro ?
 Avantages et inconvénients ?
 
+La technique Pomodoro est une technique de planification développée par Francesco Cirillo à la fin des années 1980. Cette méthode se base sur l'usage d'un minuteur permettant de respecter des périodes de 25 minutes appelées pomodori (qui signifie en italien « tomates »). Ces différentes périodes de travail sont séparées par de courtes pauses. Proches des concepts de cycles itératifs et des méthodes de développement agiles, utilisées dans le développement de logiciel, la méthode est utilisée pour la programmation en binôme. La méthode a pour principale idée que des pauses régulières favorisent l'agilité intellectuelle.
+
+La technique se présente sous la forme de cinq étapes :
+
+décider de la tâche à effectuer ;
+régler le pomodoro (minuteur) sur 25 minutes ;
+travailler sur la tâche jusqu'à ce que le minuteur sonne et la noter comme faite ;
+prendre une courte pause (5 minutes) ;
+tous les quatre pomodori prendre une pause un peu plus longue (15-20 minutes).
+
+src=https://fr.wikipedia.org/wiki/Technique_Pomodoro
+
 _Qu’est-ce qu’Amazon Web Services - AWS ?
 
 _Qui est Sundar Pichai ?
