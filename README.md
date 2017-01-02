@@ -607,9 +607,9 @@ Cette nouvelle version n'est pas qu'un amas de nouvelles balises. Elle apporte a
 
 src=https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript/qu-est-ce-que-le-html5
 
-
 _Qu’est-ce que ECMAScript 2015 ?
 Quelles nouveautés par rapport à la version précédente?
+
 
 _Quelles différences avec ES 6 ?
 
@@ -618,6 +618,18 @@ application hybride, application cross-platform et web
 application ?
 
 _Qu’est-ce que xkcd ?
+
+xkcd (ou XKCD) est une bande dessinée en ligne créée par Randall Munroe, un ancien consultant sur les robots à la NASA. L'auteur la définit comme « un webcomic sarcastique qui parle de romance, de maths et de langage ».
+
+Les nouvelles bandes apparaissent habituellement les lundis, mercredis et vendredis à minuit (Heure de l'Est), et les thèmes abordés varient grandement, des réflexions sur la vie, l'amour ou la politique, mais aussi de très nombreuses références scientifiques poussées (dans les domaines des mathématiques, de la physique et de l'informatique). On trouve aussi dans xkcd beaucoup de références à la culture populaire et à la culture « geek ».
+
+Le style de dessin est remarquablement simple, avec des personnages en bâtonnets (stickfigure en anglais) et décors très simples, voire absents. Cependant, certaines planches présentent des paysages caractéristiques, des patrons mathématiques complexes (comme des fractales) et des imitations du style d'autres auteurs.
+
+La bande est disponible sous licence Creative Commons Attribution-NonCommercial 2.5, une licence de libre diffusion (mais non-libre) autorisant la distribution des dessins, à condition de citer l'auteur et de ne pas générer de profit de la distribution. Cette licence permet la réalisation de traductions non officielles par des internautes, en espagnol, en russe, en français, etc.
+
+Depuis 2012, le même auteur réalise une seconde branche de sa webcomic, What if?, où il répond de manière rigoureuse à des questions scientifiques absurdes posées par les internautes.
+
+src=https://fr.wikipedia.org/wiki/Xkcd
 
 _Qu’est-ce que Mr Robot ?
 
